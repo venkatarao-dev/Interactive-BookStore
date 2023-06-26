@@ -156,10 +156,13 @@ Users should be able to view the website responsively in mobile view, tablet vie
 The App is provided with bookshelvesList. It consists of a list of bookshelf objects with the following properties in each bookshelf object id (string) ,value(string, label(string).
 
 ### Cart Route
-  cartItemList :this key stores the cart items
-  removeAllCartItems :this method is used to remove all the cart items in the cartList
-  addCartItem :this method adds the cart item to the cartList
-  removeCartItems :this method removes the cart item from the cartList
+  1.cartItemList :this key stores the cart items
+  
+  2.removeAllCartItems :this method is used to remove all the cart items in the cartList
+  
+  3.addCartItem :this method adds the cart item to the cartList
+  
+  4.removeCartItems :this method removes the cart item from the cartList
 
   user clicks on the Remove All button, all the cart items should be removed from the cart and EMPTY CART VIEW should be displayed
 
