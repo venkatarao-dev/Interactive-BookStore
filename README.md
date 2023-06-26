@@ -71,7 +71,8 @@ Start up the app using npm start
 Functionality  added in the app
 
 The app have the following functionalities
-
+### Design files 
+You can check the Design Files for different devices here (https://www.figma.com/file/T8BdpViEZL6DhFxu0HlEPY/Book-Hub?type=design&node-id=0-1&mode=design)
 ### note 
 (used react-router-dom version 6)
 
